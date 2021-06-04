@@ -18,4 +18,5 @@ Welcome to our fantasy solar system in a galaxy far, far away! Here, the user ca
 **Blender:** Used for starship and alien models.  
 
 ## Getting Started
+Clone the repository.  
 For Windows users, run host.bat. For Mac users, run host.command. Go to [localhost:8000](http://localhost:8000/).
