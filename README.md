@@ -1,5 +1,6 @@
 # A Galaxy Far, Far Away
 
+Created for for CS174A - Introduction to Computer Graphics.  
 Team Members: Anuk Fernando, Iris Gur, Hannah Zhong  
  
 Welcome to our fantasy solar system in a galaxy far, far away! Here, the user can view various unique planets or pilot their own starship using keyboard controls and visit each world to learn more about its history and lifeforms.  
