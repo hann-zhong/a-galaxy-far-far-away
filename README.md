@@ -1,4 +1,4 @@
-# A Galaxy Far, Far Away
+# 🚀 a galaxy far, far away
 
 Created for for CS174A - Introduction to Computer Graphics.  
 Team Members: Anuk Fernando, Iris Gur, Hannah Zhong  
